@@ -1,5 +1,5 @@
 # Tarea_3
-##Tarea Nro.3 Curso Big Data 28-09-19
+## Tarea Nro.3 Curso Big Data 28-09-19
 ejercicio 1: 
 Al cambiar el 5 por el 0 se genero un list(), esto ocurre debido a que en la posicion 0 no hay ningun numero
 Al cambiar el 5 por un numero negativo (listaDeNumeros[-7]), el programa omite el valor perteneciente a la lista en la posicion 7
